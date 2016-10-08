@@ -1,0 +1,44 @@
+body {
+  	padding-top: 70px;
+}
+
+.button_container{
+	text-align: center;	
+	padding-bottom: 10px;
+}
+
+.button_container .btn-lg{
+	width: 200px;	
+}
+
+.container .jumbotron{
+	padding-bottom: 20px;	
+}
+
+body .modal-dialog{
+	width: 100%;	
+}
+
+body .modal-dialog .img-responsive{
+	margin: auto;	
+}
+
+.container .stundenplan{
+	border: 2px solid #2e6da4;
+}
+
+.container .blockplan{
+	border: 2px solid #4cae4c;
+}
+
+.container .doppelqualifikation{
+	border: 2px solid #46b8da;
+}
+
+.container .news{
+	border: 2px solid #eea236;
+}
+
+.container .faecherliste{
+	border: 2px solid #d43f3a;
+}
