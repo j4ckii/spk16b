@@ -54,6 +54,8 @@
 						<li {if $str_current_page == 'blockplan'} class="active" {/if}><a href="blockplan.php">Blockplan</a></li>
 						<li {if $str_current_page == 'doppelqualifikation'} class="active" {/if}><a href="doppelqualifikation.php">Doppelqualifikation</a></li>
 						<li {if $str_current_page == 'news'} class="active" {/if}><a href="news.php">News</a></li>
+                        <li {if $str_current_page == 'praxisbesuche'} class="active" {/if}><a href="praxisbesuche.php">Praxisbesuche</a></li>
+                        <li><a href="/downloads/Anleitung_BBZ-Schueler.pdf" target="_blank">WLAN-Passwort</a></li>
 						<li {if $str_current_page == 'faecherliste'} class="active" {/if}><a href="faecherliste.php">F&auml;cherliste</a></li>
 						<li><a href="https://www.amazon.de/dp/3898627535/ref=cm_sw_em_r_mt_dp_d8o-xbC2RM1FP" target="_blank">Pflege-Pocket</a></li>
 					</ul>

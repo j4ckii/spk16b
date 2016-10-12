@@ -42,3 +42,35 @@ body .modal-dialog .img-responsive{
 .container .faecherliste{
 	border: 2px solid #d43f3a;
 }
+
+.btn-custom-1 {
+    color: #fff;
+    background-color: #255986;
+    border-color: #1E476B;
+}
+
+.btn-custom-1:hover {
+    color: #fff;
+    background-color: #214F78;
+    border-color: #173652;
+}
+
+.btn-custom-1:focus {
+    color: #fff;
+}
+
+.btn-custom-2 {
+    color: #fff;
+    background-color: #C03571;
+    border-color: #A12C5F;
+}
+
+.btn-custom-2:hover {
+    color: #fff;
+    background-color: #992A5A;
+    border-color: #762045;
+}
+
+.btn-custom-2:focus {
+    color: #fff;
+}

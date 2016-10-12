@@ -17,7 +17,13 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-12 col-md-offset-3 col-md-3 button_container">
+        	<div class="col-sm-12 col-md-3 button_container">
+				<a class="btn btn-lg btn-custom-2" href="praxisbesuche.php" role="button">Praxisbesuche</a>
+			</div>
+        	<div class="col-sm-12 col-md-3 button_container">
+				<a class="btn btn-lg btn-custom-1" target="_blank" href="/downloads/Anleitung_BBZ-Schueler.pdf" role="button">WLAN-Passwort</a>
+			</div>
+			<div class="col-sm-12 col-md-3 button_container">
 				<a class="btn btn-lg btn-danger" href="faecherliste.php" role="button">F&auml;cherliste</a>
 			</div>
 			<div class="col-sm-12 col-md-3 button_container">
