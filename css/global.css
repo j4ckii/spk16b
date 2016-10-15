@@ -43,6 +43,14 @@ body .modal-dialog .img-responsive{
 	border: 2px solid #d43f3a;
 }
 
+.container .erinnerung{
+	border: 2px solid #1D6E22;
+}
+
+.container .login{
+	text-align:center;
+}
+
 .btn-custom-1 {
     color: #fff;
     background-color: #255986;
@@ -72,5 +80,21 @@ body .modal-dialog .img-responsive{
 }
 
 .btn-custom-2:focus {
+    color: #fff;
+}
+
+.btn-custom-3 {
+    color: #fff;
+    background-color: #29972F;
+    border-color: #1D6E22;
+}
+
+.btn-custom-3:hover {
+    color: #fff;
+    background-color: #17551A;
+    border-color: #0F3A11;
+}
+
+.btn-custom-3:focus {
     color: #fff;
 }
