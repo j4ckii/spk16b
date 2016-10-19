@@ -2,6 +2,14 @@
 {block name=title}SPK16B - News{/block}
 {block name=body}
 	<div class="jumbotron news">
+    	<h2>Donnerstag 20.10.2016</h2>
+		<p>
+			<ul>
+				<li>Zahnpflege Utensilien (Zahnbürste, Zahnpasta, Zahnseide, Becher etc.)</li>
+				<li>Handtuch</li>
+			</ul>		
+		</p>
+		<br />
 		<h2>Montag 17.10.2016</h2>
 		<p>
 			<ul>
