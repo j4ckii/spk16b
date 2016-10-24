@@ -10,7 +10,7 @@
 				<a class="btn btn-lg btn-success" href="blockplan.php" role="button">Blockplan</a>
 			</div>
 			<div class="col-sm-12 col-md-3 button_container">
-				<a class="btn btn-lg btn-info" href="doppelqualifikation.php" role="button">Doppelqualifikation</a>
+				<a class="btn btn-lg btn-info" href="download.php" role="button">Downloads</a>
 			</div>
 			<div class="col-sm-12 col-md-3 button_container">
 				<a class="btn btn-lg btn-warning" href="news.php" role="button">News</a>
@@ -31,6 +31,9 @@
 			</div>
 		</div>
         <div class="row">
+        	<div class="col-sm-12 col-md-3 button_container">
+				<a class="btn btn-lg btn-info" href="doppelqualifikation.php" role="button">Doppelqualifikation</a>
+			</div>
         	<div class="col-sm-12 col-md-3 button_container">
 				<a class="btn btn-lg btn-default" target="_blank" href="https://www.amazon.de/dp/3898627535/ref=cm_sw_em_r_mt_dp_d8o-xbC2RM1FP" role="button">Pflege-Pocket</a>
 			</div>

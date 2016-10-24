@@ -1,0 +1,6 @@
+<FilesMatch "download.php">
+AuthName "Download Area"
+AuthType Basic
+AuthUserFile  /kunden/505436_86444/spk16b/.htpasswd
+require valid-user
+</FilesMatch>

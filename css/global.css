@@ -98,3 +98,8 @@ body .modal-dialog .img-responsive{
 .btn-custom-3:focus {
     color: #fff;
 }
+
+.protected_download {
+	font-weight: bold;
+	font-size: 19px;	
+}
