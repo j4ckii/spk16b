@@ -2,6 +2,11 @@
 {block name=title}SPK16B - News{/block}
 {block name=body}
 	<div class="jumbotron news">
+    	<h2>Freitag 28.10.2016</h2>
+		<p>
+			Schulaufgabe Hurm + Opolka		
+		</p>
+		<br />
     	<h2>Donnerstag 20.10.2016</h2>
 		<p>
 			<ul>
