@@ -3,7 +3,9 @@
 {block name=body}
 	<div class="jumbotron download">
     	<h2>Schulaufgabe Hurm + Opolka</h2>
-		<a class="protected_download" href="/downloads/protected/hurm_opolka_1.zip">Download</a>
+		<a class="protected_download" href="/downloads/protected/hurm_opolka_1.zip">Download</a><br />
+        <a class="protected_download" href="/downloads/protected/SA_GdP1_LF1_Blut_Zelle_Gewebe.docx">Download Word Dokument (Hurm)</a><br />
+        <a class="protected_download" href="/downloads/protected/SA_GdP1_LF1_Blut_Zelle_Gewebe.pdf">Download PDF Dokument (Hurm)</a><br /><br />
         <div class="row">
 			<div class="col-sm-12 col-md-3">
 				<a href="img/protected/1/1.jpg" data-toggle="lightbox" data-gallery="1-gallery">
