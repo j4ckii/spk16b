@@ -7,7 +7,14 @@
         <a class="protected_download" href="/downloads/protected/SA_GdP1_LF1_Blut_Zelle_Gewebe.docx">Download Word Dokument (Hurm)</a><br />
         <a class="protected_download" href="/downloads/protected/SA_GdP1_LF1_Blut_Zelle_Gewebe.pdf">Download PDF Dokument (Hurm)</a><br /><br />
         <div class="row">
-			<div class="col-sm-12 col-md-3">
+			{foreach from=$all_images item=img}
+				<div class="col-sm-12 col-md-3">
+					<a href="img/protected/1/{$img}" data-toggle="lightbox" data-gallery="1-gallery">
+						<img src="img/protected/1/{$img}" class="img-thumbnail">
+					</a>
+				</div>
+			{/foreach}
+			{*<div class="col-sm-12 col-md-3">
 				<a href="img/protected/1/1.jpg" data-toggle="lightbox" data-gallery="1-gallery">
 					<img src="img/protected/1/1.jpg" class="img-thumbnail">
 				</a>
@@ -57,6 +64,21 @@
 					<img src="img/protected/1/10.jpg" class="img-thumbnail">
 				</a>
 			</div>
+			<div class="col-sm-12 col-md-3">
+				<a href="img/protected/1/11.jpg" data-toggle="lightbox" data-gallery="1-gallery">
+					<img src="img/protected/1/11.jpg" class="img-thumbnail">
+				</a>
+			</div>
+			<div class="col-sm-12 col-md-3">
+				<a href="img/protected/1/12.jpg" data-toggle="lightbox" data-gallery="1-gallery">
+					<img src="img/protected/1/12.jpg" class="img-thumbnail">
+				</a>
+			</div>
+			<div class="col-sm-12 col-md-3">
+				<a href="img/protected/1/13.jpg" data-toggle="lightbox" data-gallery="1-gallery">
+					<img src="img/protected/1/13.jpg" class="img-thumbnail">
+				</a>
+			</div>*}
 		</div>
 	</div>
 {/block}
