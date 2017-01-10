@@ -39,6 +39,10 @@ body .modal-dialog .img-responsive{
 	border: 2px solid #eea236;
 }
 
+.container .geburtstag{
+	border: 2px solid #FF0000;
+}
+
 .container .faecherliste{
 	border: 2px solid #d43f3a;
 }
@@ -99,7 +103,36 @@ body .modal-dialog .img-responsive{
     color: #fff;
 }
 
+.btn-custom-4 {
+    color: #fff;
+    background-color: #FF0004;
+    border-color: #A10002;
+}
+
+.btn-custom-4:hover {
+    color: #fff;
+    background-color: #7E0001;
+    border-color: #5F0000;
+}
+
+.btn-custom-4:focus {
+    color: #fff;
+}
+
 .protected_download {
 	font-weight: bold;
 	font-size: 19px;	
+}
+
+.row_bright{
+	background-color: #FBFBFB;
+}
+
+.row_dark{
+	background-color: #F1F1F1;
+}
+
+.news h2{
+	font-size: 28px;
+	font-weight: bold;	
 }

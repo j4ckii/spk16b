@@ -59,6 +59,7 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sonstiges <span class="caret"></span></a>
                             <ul class="dropdown-menu">
+                            	<li {if $str_current_page == 'geburtstag'} class="active" {/if}><a href="geburtstag.php">Geburtstag</a></li>
                                 <li><a href="/downloads/Anleitung_BBZ-Schueler.pdf" target="_blank">WLAN-Passwort</a></li>
 								<li {if $str_current_page == 'faecherliste'} class="active" {/if}><a href="faecherliste.php">F&auml;cherliste</a></li>
                                 <li {if $str_current_page == 'doppelqualifikation'} class="active" {/if}><a href="doppelqualifikation.php">Doppelqualifikation</a></li>

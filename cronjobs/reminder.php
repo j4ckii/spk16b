@@ -30,7 +30,7 @@ if ($tmp = $mysqli->query("SELECT * FROM news WHERE date > CURDATE()")) {
 		$interval = date_diff($datetime1, $datetime2);
 		$days = $interval->format('%a');
 		$mail->Subject = 'SPK16B Erinnerung '.$datetime2->format('d.m.Y');
-		$mail->Body = '<h2>'.$datetime2->format('d.m.Y').'</h2>'.$row['text'];
+		$mail->Body = '<h2>'.$datetime2->format('d.m.Y').'</h2><p>'.$row['text'].'</p>';
 		
 		if($days == '14'){
 			if ($tmp2 = $mysqli->query("SELECT * FROM reminder WHERE news_2w = 1")) {

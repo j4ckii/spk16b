@@ -21,7 +21,7 @@
 				<a class="btn btn-lg btn-custom-2" href="praxisbesuche.php" role="button">Praxisbesuche</a>
 			</div>
         	<div class="col-sm-12 col-md-3 button_container">
-				<a class="btn btn-lg btn-custom-1" target="_blank" href="/downloads/Anleitung_BBZ-Schueler.pdf" role="button">WLAN-Passwort</a>
+				<a class="btn btn-lg btn-custom-4" href="geburtstag.php" role="button">Geburtstag</a>
 			</div>
 			<div class="col-sm-12 col-md-3 button_container">
 				<a class="btn btn-lg btn-danger" href="faecherliste.php" role="button">F&auml;cherliste</a>
@@ -36,6 +36,9 @@
 			</div>
         	<div class="col-sm-12 col-md-3 button_container">
 				<a class="btn btn-lg btn-default" target="_blank" href="https://www.amazon.de/dp/3898627535/ref=cm_sw_em_r_mt_dp_d8o-xbC2RM1FP" role="button">Pflege-Pocket</a>
+			</div>
+            <div class="col-sm-12 col-md-3 button_container">
+				<a class="btn btn-lg btn-custom-1" target="_blank" href="/downloads/Anleitung_BBZ-Schueler.pdf" role="button">WLAN-Passwort</a>
 			</div>
         </div>
 	</div>
